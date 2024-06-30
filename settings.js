@@ -1,39 +1,39 @@
-//base by DGXeon
+//baseby DG Xeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jay_thee-secnd
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @ikwan68
-//WhatsApp: +916909137213
+//YouTube: @𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞  ☯︎  𝖌𝖗𝖊𝖞 🕊️
+//Instagram: 𝞛𝞓𝙎𝙏𝞢𝞒  𝞗𝞗𝙂𝙒𝞓𝙔
+//Telegram: t.me/Oogway08
+//GitHub: @Dominican643
+//WhatsApp: 2347015667458
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: Jᴀɪ Tнᴇᴇ-Sᴇсnd" //ur yt chanel name
-global.socialm = "GitHub: ✞Jᴀɪ🌷 ꨄTнᴇᴇ✞Sᴇсnd" //ur github or insta name
-global.location = "Nigeria, Abia, Aba" //ur location
+global.ytname = "YT: 𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞" //ur yt chanel name
+global.socialm = "GitHub: Dominican643" //ur github or insta name
+global.location = "Nigeria, Abuja, Apo" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V14' //ur bot name
-global.ownernumber = '2347083808798' //ur owner number
-global.ownername = '✞Jᴀɪ🌷 ꨄTнᴇᴇ✞Sᴇсnd' //ur owner name
-global.websitex = "https://youtu.be/RT0-AMBVwJg"
-global.wagc = "https://chat.whatsapp.com/E1HeG6hyiyWG7F6G7m1xY8"
-global.themeemoji = '🪀'
-global.wm = "✞Jᴀɪ🌷  Bot Inc."
-global.botscript = 'https://github.com/ikwan67/No script for you lil bro' //script link
-global.packname = "Sticker By"
-global.author = "✞Jᴀɪ Tнᴇᴇ-Sᴇсnd\n\n+2347083808798"
-global.creator = "2347083808798@s.whatsapp.net"
+global.botname = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 𝕭𝖔𝖙' //ur bot name
+global.ownernumber = '2347015667458' //ur owner number
+global.ownername = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 ☯︎ ᵍʳᵉʸ 🕊️' //ur owner name
+global.websitex = "https://www.youtube.com/@Oogway187"
+global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.themeemoji = '🕊️'
+global.wm = "Oogway Bot Inc."
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
+global.packname = "𝕭𝖊𝖑𝖔𝖓𝖌𝖘 𝖙𝖔"
+global.author = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞"
+global.creator = "2347015667458@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2347083808798"] // Premium User
+global.premium = ["2349063382597"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
-global.typereply = 'v4' // reply type 'v1' => 'v4'
+global.typemenu = 'v9' // menu type 'v1' => 'v12'
+global.typereply = 'v1' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
