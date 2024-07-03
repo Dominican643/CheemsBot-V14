@@ -17,7 +17,7 @@ global.location = "Nigeria, Abuja, Apo" //ur location
 
 //new
 global.botname = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 𝕭𝖔𝖙' //ur bot name
-global.ownernumber = '2347015667458' //ur owner number
+global.ownernumber = '22395064497' //ur owner number
 global.ownername = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 ☯︎ ᵍʳᵉʸ 🕊️' //ur owner name
 global.websitex = "https://www.youtube.com/@Oogway187"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -26,9 +26,9 @@ global.wm = "Oogway Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "𝕭𝖊𝖑𝖔𝖓𝖌𝖘 𝖙𝖔"
 global.author = "𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞"
-global.creator = "2347015667458@s.whatsapp.net"
+global.creator = "22395064497@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349063382597"] // Premium User
+global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 
 //bot sett
